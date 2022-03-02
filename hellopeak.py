@@ -1,3 +1,1 @@
-print("Hello Peak!")
-
-# Test
+print 'Hello Peak!'
