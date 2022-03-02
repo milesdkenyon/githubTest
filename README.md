@@ -1,3 +1,0 @@
-# githubTest
-
-print 'Hello World'
